@@ -1,0 +1,22 @@
+{
+	"description" : "水下miku，滑动鼠标有水波纹效果。web格式，js波纹效果，不占系统资源。 \n背景1920*1080，素材来源网络，侵删。 \n\nupdate：v1.1 \n优化了部分内容，减少了整体大小。 \n不知道如何更新，重新上传后，系统按新的发布了，之前的就删掉了。\n\nupdate：v1.2\n添加背景音乐，本来试了一下原版，发现有点吵，不适合一直作为背景音乐，于是使用了av6237873提取的音乐。\n播放、暂停、静音、音量按钮在屏幕右上角。\n下个更新预计会加入歌曲切换功能。\n\nupdate：v1.21\n1：尝试处理Edge浏览器的兼容问题，如果Edge浏览器还是无法点击播放音乐，请再报告一下。\n2：调整播放控件颜色，使之与桌面主题颜色一致。",
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0 0 0"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"title" : "underseamiku v1.21",
+	"type" : "web",
+	"visibility" : "public",
+	"workshopid" : 823472685
+}
